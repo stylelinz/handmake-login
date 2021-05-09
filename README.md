@@ -47,3 +47,12 @@
   ```
 
   6. 在終端機按下 `ctrl` + `c` 或 `cmd` + `c`，以關閉伺服器
+
+## 測試用帳號
+| Name | Email |Password|
+| ------ | ----------- | -----------------|
+| Tony  | tony@stark.com | iamironman|
+| Steve  | captain@hotmail.com | icandothisallday|
+| Peter  | peter@parker.com | enajyram|
+| Natasha  | natasha@gamil.com | i*parol#@$!|
+| Nick  | nick@shield.com | password|
