@@ -29,7 +29,7 @@ const users = [
 module.exports = function isUser ({ email, password }) {
   const userIdx = users.find(user => email === user.email && password === user.password)
   if (userIdx) {
-    return { state: 'success', user: userIdx.firstName }
+    return { state: 'success', userName: userIdx.firstName }
   }
   return { state: 'fail', user: null }
 }
